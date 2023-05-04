@@ -11,7 +11,7 @@ Part 1: Create the Earthquake Visualization
 ![Data](C:\Users\cghos\OneDrive\Desktop\leaflet-challenge\Leaflet-Part-1\Images\3-Data.png)
 All Earthquakes from the Past 7 Days
 The following image is a sampling of earthquake data in JSON format:
-![JSON](C:\Users\cghos\OneDrive\Desktop\leaflet-challenge\JSON.jpg)
+![JSON](JSON.jpg)
 2.Import and visualize the data by doing the following:
 Using Leaflet, created a map that plots all the earthquakes from the dataset based on their longitude and latitude.
 The data markers  reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
